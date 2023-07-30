@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi! I'm Edgard Mireles</h1>
+    <h1 align="center">Hi 🖐️ I'm Edgard Mireles</h1>
     <h3 align="center">I'm a Chemical Engineering student with skills in programming. I consider myself a self-taught, proactive, and results-oriented individual, always seeking new challenges that allow me to apply my skills and knowledge to solve problems and enhance processes.</h3>
 </div>
 
@@ -16,10 +16,10 @@
 
 ### About Me :
 
-- Currently i study on [UANL](https://UANL.com.mx).
-- I like doing my projects with programming.
-- Knowledge about chemical processes.
-- Learning C#.
+- 📖 Currently i study on [UANL](https://UANL.com.mx).
+- 💻 I like doing my projects with programming.
+- 🧑‍🔬 Knowledge about chemical processes.
+- ⌨️ Learning C#.
 
 <div align="left">
     <h3>Languages and Tools :</h3>
@@ -29,5 +29,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>
     </div>
 </div>
