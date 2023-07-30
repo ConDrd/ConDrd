@@ -1,18 +1,17 @@
-### Hello! 👋
+<div id="header" align="center">
+    <h1 align="center">Hi! I'm Edgard Mireles</h1>
+    <h3 align="center">I'm a Chemical Engineering student with skills in programming. I consider myself a self-taught, proactive, and results-oriented individual, always seeking new challenges that allow me to apply my skills and knowledge to solve problems and enhance processes.</h3>
+</div>
 
-<!--
-**ConDrd/ConDrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+    <a href="https://www.instagram.com/edgarrcond/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-### About me
+### About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like doing my projects with programming
+- Knowledge about chemical processes
