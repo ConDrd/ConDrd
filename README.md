@@ -16,7 +16,7 @@
 
 ### About Me :
 
-- 📖 Currently i study on [UANL](https://UANL.com.mx).
+- 📖 Currently i study on [UANL](https://uanl.mx/).
 - 💻 I like doing my projects with programming.
 - 🧑‍🔬 Knowledge about chemical processes.
 - ⌨️ Learning C#.
