@@ -1,6 +1,10 @@
 <div id="header" align="center">
     <h1 align="center">Hi 🖐️ I'm Edgard Mireles</h1>
-    <h3 align="center">I'm a Chemical Engineering with skills in programming. I consider myself a self-taught, proactive, and results-oriented individual, always seeking new challenges that allow me to apply my skills and knowledge to solve problems and enhance processes.</h3>
+    <h3 align="center">
+        Chemical Engineer with a strong focus on programming, process analysis, and digital transformation.
+        I’m a self-taught, proactive, and results-driven professional with experience bridging engineering,
+        procurement (P2P), and system integrations to improve operational efficiency.
+    </h3>
 </div>
 
 <div id="badges" align="center">
@@ -16,20 +20,22 @@
 
 ### About Me :
 
-- 📖 Graduated as Chemical Engineer at [UANL](https://uanl.mx/).
-- 💻 I like doing my projects with programming.
-- 🧑‍🔬 Knowledge about chemical processes.
-- Knowledge in P2P process, business and cXML implementation.
+- 🎓 Chemical Engineering graduate from <a href="https://uanl.mx/" target="_blank">UANL</a>.
+- 🧪 Solid background in chemical processes, analysis, and engineering problem-solving.
+- 💻 Strong interest in software development and automation, especially using Python.
+- 🔗 Experience in Procure-to-Pay (P2P) processes, supplier enablement, and business operations.
+- 📄 Hands-on work with cXML integrations, ERP interactions, and process standardization.
+- 🌍 Language enthusiast: actively studying English and Mandarin Chinese.
 
 <div align="left">
     <h3>Languages and Tools :</h3>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     </div>
     <div>
-        <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" title="Word" alt="Word"/>
-        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>
+        <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
     </div>
 </div>
